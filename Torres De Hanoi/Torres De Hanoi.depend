@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1607487357 source:c:\users\malco\onedrive\escritorio\programacion c++\proyecto torres de hanoi\torres de hanoi\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Utileria.h"
+	"Arte.h"
+	"Interfaz.h"
+
+1607487331 c:\users\malco\onedrive\escritorio\programacion c++\proyecto torres de hanoi\torres de hanoi\utileria.h
+
+1607486535 source:c:\users\malco\onedrive\escritorio\programacion c++\proyecto torres de hanoi\torres de hanoi\utileria.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Utileria.h"
+	"Arte.h"
+
+1607485142 source:c:\users\malco\onedrive\escritorio\programacion c++\proyecto torres de hanoi\torres de hanoi\arte.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	"Arte.h"
+	"Utileria.h"
+
+1607487331 c:\users\malco\onedrive\escritorio\programacion c++\proyecto torres de hanoi\torres de hanoi\arte.h
+
+1607488256 source:c:\users\malco\onedrive\escritorio\programacion c++\proyecto torres de hanoi\torres de hanoi\interfaz.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Arte.h"
+	"Utileria.h"
+	"Interfaz.h"
+
+1607487331 c:\users\malco\onedrive\escritorio\programacion c++\proyecto torres de hanoi\torres de hanoi\interfaz.h
+
+1607485142 source:c:\users\i5\downloads\torres de hanoi\arte.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	"Arte.h"
+	"Utileria.h"
+
+1607487331 c:\users\i5\downloads\torres de hanoi\arte.h
+
+1607487331 c:\users\i5\downloads\torres de hanoi\utileria.h
+
+1607832690 source:c:\users\i5\downloads\torres de hanoi\interfaz.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<math.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Arte.h"
+	"Utileria.h"
+	"Interfaz.h"
+
+1607830119 c:\users\i5\downloads\torres de hanoi\interfaz.h
+
+1607674904 source:c:\users\i5\downloads\torres de hanoi\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Utileria.h"
+	"Arte.h"
+	"Interfaz.h"
+
+1607648243 source:c:\users\i5\downloads\torres de hanoi\utileria.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Utileria.h"
+	"Arte.h"
+
+1607485142 source:c:\users\malco\downloads\torres de hanoi\arte.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	"Arte.h"
+	"Utileria.h"
+
+1607487331 c:\users\malco\downloads\torres de hanoi\arte.h
+
+1607487331 c:\users\malco\downloads\torres de hanoi\utileria.h
+
+1607741972 source:c:\users\malco\downloads\torres de hanoi\interfaz.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Arte.h"
+	"Utileria.h"
+	"Interfaz.h"
+
+1607674904 c:\users\malco\downloads\torres de hanoi\interfaz.h
+
+1607674904 source:c:\users\malco\downloads\torres de hanoi\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Utileria.h"
+	"Arte.h"
+	"Interfaz.h"
+
+1607648243 source:c:\users\malco\downloads\torres de hanoi\utileria.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	<limits>
+	"Utileria.h"
+	"Arte.h"
+
+1607922413 source:c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\arte.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	"Arte.h"
+	"Utileria.h"
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\arte.h
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\utileria.h
+
+1607922484 source:c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\interfaz.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<limits>
+	"Arte.h"
+	"Utileria.h"
+	"Motor.h"
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\interfaz.h
+
+1607922320 source:c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	"Utileria.h"
+	"Arte.h"
+	"Interfaz.h"
+
+1607922484 source:c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\utileria.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	"Utileria.h"
+	"Arte.h"
+
+1607922365 source:c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\motor.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<conio.h>
+	<limits>
+	"Arte.h"
+	"Utileria.h"
+	"Motor.h"
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion c++\torres de hanoi\motor.h
+
+1607922413 source:c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\arte.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<cctype>
+	<conio.h>
+	"Arte.h"
+	"Utileria.h"
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\arte.h
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\utileria.h
+
+1607922484 source:c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\interfaz.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<limits>
+	"Arte.h"
+	"Utileria.h"
+	"Motor.h"
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\motor.h
+
+1607970646 source:c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\motor.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+	<conio.h>
+	<limits>
+	"Arte.h"
+	"Utileria.h"
+	"Motor.h"
+
+1607922484 source:c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\utileria.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	"Utileria.h"
+	"Arte.h"
+
+1613187765 source:c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	"Utileria.h"
+	"Arte.h"
+	"Interfaz.h"
+
+1607922168 c:\users\malco\onedrive\escritorio\programacion\programacion c++\torres de hanoi\interfaz.h
+
